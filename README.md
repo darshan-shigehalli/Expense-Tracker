@@ -1,3 +1,21 @@
-It is the website which tracks your expenses. User have to enter initial amount they have, then as and when the user enter the expenses, the balance amount will be calculated by subtracting the expenditure from initial amount.The best part of this project is,at the end, it will categorize the expense and give a complete report.
+# Expense Tracker
 
-Feel free to look into the website demo: https://darshanhegdeexpensetracker.netlify.app/
+**Expense Tracker** is a simple and efficient web application built to help individuals manage their daily expenses. This application allows users to track their income and expenditures, providing an organized way to monitor their finances. It offers functionalities to add, edit, and delete expense records while keeping track of the total balance.
+
+## Key Features
+
+- **Expense Management:** Add, update, and delete your expense entries with relevant details like amount, category, and date.
+- **Income Tracking:** Add income entries to maintain a clear overview of your financial situation.
+- **Total Balance Calculation:** Automatically calculates and displays the total balance by subtracting expenses from income.
+- **Category Management:** Categorize expenses to track spending habits and set budgets.
+- **User-Friendly Interface:** Easy-to-use interface to add and manage your expenses.
+
+## Technology Stack
+
+The application utilizes the following technologies to ensure functionality, reliability, and ease of use:
+
+- **JavaScript (Node.js):** Core programming language for backend logic and functionality.
+- **Bootstrap:** For a responsive front-end design.
+- **Body-Parser:** Middleware to parse incoming request bodies.
+
+Feel free to experience the demo : https://darshanhegdeexpensetracker.netlify.app/
